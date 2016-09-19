@@ -44,7 +44,6 @@ body {
   color:#555;
   background: #f5f7f9;
 
-
 }
 
 h1,
@@ -65,10 +64,21 @@ blockquote
   background: #f5f7f9;
   padding: 2px 4px;
   vertical-align: text-bottom;
+  line-height: 0.5;
+  /* if border needed: 
+  border-top: 1px solid #d8dee9;
   border-bottom: 1px solid #d8dee9;
-  color: #a7adba;
+  */
+  color: #555;
+   text-align: right;
 }
 
 a {
-  color: #e81c4f;
+  color:#333;
+
+
+
 }
+
+   /*#e81c4f;*/
+
