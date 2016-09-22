@@ -1,9 +1,11 @@
-@import 'https://fonts.googleapis.com/css?family=Roboto:300,400,500';
+@import 'https://fonts.googleapis.com/css?family=Muli:300,400,500';
+
 
 header {
   background-color: #263d36;
-  background-image: url("codexvitae.jpeg");
   background-position: center top;
+  background-image: url("codexvitae.jpeg");
+
   background-repeat: no-repeat;
   background-size: cover;
   line-height: 1.2;
@@ -11,9 +13,16 @@ header {
   text-align: center;
 }
 
+  background-image: url("codexvitae.jpeg");
+
+
+header img {
+   max-width: 50em;
+}
+
 header h1 {
   color: white;
-  font-size: 2.5em;
+  font-size: 4em;
   font-weight: 300;
 }
 
