@@ -13,8 +13,15 @@ header {
   text-align: center;
 }
 
-  background-image: url("codexvitae.jpeg");
 
+.profile {
+    border-radius: 50%;
+      max-height: 1.5em;
+}
+
+.intro {
+  font-size: 2.5em;
+}
 
 header img {
    max-width: 50em;
